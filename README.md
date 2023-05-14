@@ -1,7 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZbDEPIzT)
+
 # Impacts on Society
 
-Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
+The intent of this course will be to include the fundamental structure for the AP Computer Science Principles course, and is aligned with the California Content Standards for Computer Science, grades 6-8. If funding is available through the district, a pre-established curriculum that satisfies the requirements of these programs will be selected. If funding is not available, an in-house curriculum will be developed. This course will include:
+* Introduction to basic hardware
+* Exploration of data collection and various types of data
+* Program/code planning, to include the use of flowcharts
+* Basic introduction to algorithms and programming
+* Project design, using basic coding components
+* Introduction to safety guidelines and protocol development
+
+The impact of computing on society is an incredibly important concept to consider, especially regarding the use of computing by young people. As part of the introductory course, I believe that it is imperative that students learn to critically analyze the impacts of what they are doing in each lesson that they learn. I aim to incorporate this type of analysis throughout the duration of the course, through targeted activities, as well as a routine reflection and analysis for the completion of milestone skills learned. 
+
 
 ## Plan
 
